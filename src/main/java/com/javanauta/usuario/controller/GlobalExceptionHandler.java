@@ -1,5 +1,6 @@
 package com.javanauta.usuario.controller;
 
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.javanauta.usuario.infrastructure.exceptions.ConflictException;
 import com.javanauta.usuario.infrastructure.exceptions.IllegalArgumentsException;
